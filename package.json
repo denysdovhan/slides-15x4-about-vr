@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Slides for my talk about VR at 15x4 Chernivtsi",
   "author": "Denys Dovhan <denysdovhan@gmail.com> (http://denysdovhan.com)",
-  "homepage": "https://denysdovhan.com/slides-vr-crash-course",
+  "homepage": "https://denysdovhan.com/slides-15x4-about-vr",
   "dependencies": {
     "aframe": "^0.6.1",
     "gh-pages": "^1.0.0",
